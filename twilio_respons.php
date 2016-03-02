@@ -7,3 +7,4 @@ if($_POST['Digits'] == 1):
   echo '</Say>';
   echo '</Responce>';
 endif;
+?>
